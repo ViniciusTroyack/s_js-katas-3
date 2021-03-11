@@ -35,7 +35,7 @@ Você pode continuar adicionando cada novo kata no final da página.
 17. Exibir o menor elemento de sampleArray.
 18. Exibir o maior elemento de sampleArray.
 
-### Bônus
+### Desafio extra
 
 Se você gosta de um desafio extra, tente completar cada um dos itens acima novamente _sem usar_ quaisquer loops `for` ou `while`.
 
