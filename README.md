@@ -12,7 +12,7 @@ Você pode continuar adicionando cada novo kata no final da página.
 
 ## Katas 
 
-### Nesse katas nós não vamos utilizar métodos de iteração de array(forEach, map, filter, reduce, sort...) e nem (math min, math max), vamos utilizar apenas estruturas de repetição como (while, for ou do while).
+### Nesse katas nós não vamos utilizar métodos de iteração de array (forEach, map, filter, reduce, sort...) e nem (math min, math max), vamos utilizar apenas estruturas de repetição como (while, for ou do while).
 
 ### Suas funções devem utilizar return para retornar os resultados solicitados
 
