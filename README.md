@@ -12,9 +12,14 @@ Você pode continuar adicionando cada novo kata no final da página.
 
 ## Katas 
 
-### Nesse katas nós não vamos utilizar métodos de iteração de array (forEach, map, filter, reduce, sort...) e nem (math min, math max), vamos utilizar apenas estruturas de repetição como (while, for ou do while).
+Antes de começar a desenvolver suas funções de resolução dos Katas, crie a função **"showResults"** seguindo os seguintes passos:
+1. Essa função deve receber um valor como parâmetro.
+2. Essa função deve mostrar no DOM o valor recebido.
+3. Essa função deve ser chamada dentro de todas as outras funções.
 
-### Suas funções devem utilizar return para retornar os resultados solicitados
+**Nesse katas nós não vamos utilizar métodos de iteração de array (forEach, map, filter, reduce, sort...) e nem (math min, math max), vamos utilizar apenas estruturas de repetição como (while, for ou do while).**
+
+**Suas funções devem utilizar return para retornar os resultados solicitados**
 
 1.  Exibir os números de 1 a 25: _(1, 2, 3, …, 24, 25)_
 2.  Exibir os números de 25 a 1: _(25, 24, 23, …, 2, 1)_
