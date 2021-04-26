@@ -12,10 +12,10 @@ Você pode continuar adicionando cada novo kata no final da página.
 
 ## Katas 
 
-Antes de começar a desenvolver suas funções de resolução dos Katas, crie a função **"showResults"** seguindo os seguintes passos:
-1. Essa função deve receber um valor como parâmetro.
-2. Essa função deve mostrar no DOM o valor recebido.
-3. Essa função deve ser chamada dentro de todas as outras funções.
+Antes de começar a desenvolver suas funções de resolução dos Katas, crie a função **"showResults"** seguindo os seguintes passos:_
+1. Essa função deve receber um valor como parâmetro._
+2. Essa função deve mostrar no DOM o valor recebido._
+3. Essa função deve ser chamada dentro de todas as outras funções._
 
 **Nesse katas nós não vamos utilizar métodos de iteração de array (forEach, map, filter, reduce, sort...) e nem (math min, math max), vamos utilizar apenas estruturas de repetição como (while, for ou do while).**
 
